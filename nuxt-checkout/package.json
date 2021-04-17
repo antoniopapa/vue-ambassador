@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-checkout",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3",
+    "nuxt-stripe-module": "^3.1.7"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.3",
+    "@nuxt/typescript-build": "^2.1.0"
+  }
+}
