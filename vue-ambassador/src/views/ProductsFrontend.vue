@@ -3,7 +3,7 @@
 </template>
 
 <script lang="ts">
-import Products from "@/views/Products";
+import Products from "@/views/Products.vue";
 import {onMounted, reactive, ref} from "vue";
 import {Product} from "@/models/product";
 import axios from "axios";
